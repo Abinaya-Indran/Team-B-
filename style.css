@@ -1,0 +1,22 @@
+.parent{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    background-color: blue;
+    color:aliceblue;
+}
+ul,li{
+    display: flex;
+    padding: 0 10px;
+}
+button{
+    background-color: blue;
+    border: blue solid;
+    color:aliceblue;
+}
+.logo{
+    padding: 15px 10px;
+}
+
+
+ 
