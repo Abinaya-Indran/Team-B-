@@ -54,7 +54,7 @@ textarea:focus-within{
     border-color: #5BD183;
     border-width: 3px;
 }
-button{
+.button{
     background-color: #5BD183;
     border-radius: 20px;
     border-color: black;
@@ -64,7 +64,7 @@ button{
     display: flex;
     margin:auto;
 }
-button:hover{
+.button:hover{
     opacity: 80%;
     cursor: pointer;
 }
